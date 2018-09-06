@@ -1,0 +1,19 @@
+body {
+	font-family: Britannic Bold;
+	color: #000000;
+	background: url(../img/index.jpg); background-size: cover;
+}
+
+nav {
+	background: #19468e;
+}
+
+nav a {
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+nav a:hover {
+	color: #e08d08;
+}
